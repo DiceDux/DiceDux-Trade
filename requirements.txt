@@ -1,0 +1,9 @@
+pandas
+requests
+numpy
+python-dotenv
+jupyter
+scikit-learn
+matplotlib
+xgboost
+mysql-connector-python
